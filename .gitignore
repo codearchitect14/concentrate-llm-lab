@@ -14,3 +14,16 @@
 *.pyzwzwz
 *.pyzwzwzw
 
+
+
+.env.backup
+IMPLEMENTATION_SUMMARY.md
+PROJECT_PLAN.md
+QUICKSTART.md
+create_env.sh
+env.example
+experiments.log
+pytest.ini
+requirements.txt
+test_endpoint.py
+tests/s
